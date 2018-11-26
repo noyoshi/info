@@ -1,1 +1,16 @@
-/Users/silver/bin/saveit
+#!/bin/bash
+
+if [ -z "$1" ]; then
+  echo "No link given"
+  exit 1
+fi
+
+push_to_git() {
+  echo "- $1" >> "$NICE_PATH/README.md"
+  cd $NICE_PATH
+  git add README.md &> /dev/null 
+  git commit -m "new link - $1" &> /dev/null 
+  git push &> /dev/null & 
+}
+
+push_to_git $1
