@@ -11,3 +11,4 @@ links into different sections (eg. papers vs blog posts).
 - https://news.ycombinator.com/item?id=18442637
 - https://dev.to/whokilledkevin/how-i-created-a-bot-that-talked-to-recruiters-for-me-54n5
 - https://www.arun.is/blog/custom-typefaces/
+- https://medium.com/commitlog/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068
