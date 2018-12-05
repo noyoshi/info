@@ -18,3 +18,4 @@ links into different sections (eg. papers vs blog posts).
 - [](https://spectreattack.com)
 - [Meltdown and Spectre](https://spectreattack.com)
 - [attention](attention)
+- [https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
