@@ -17,3 +17,4 @@ links into different sections (eg. papers vs blog posts).
 - https://news.ycombinator.com/item?id=18592489
 - [C.S. Lewis on the Reading of Old Books | Hacker News](https://news.ycombinator.com/item?id=18592489)
 - [Why “Agile” and especially Scrum are terrible – Michael O. Church](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
+- [Ask HN: What's the largest amount of bad code you have ever seen work? | Hacker News](https://news.ycombinator.com/item?id=18442637)
