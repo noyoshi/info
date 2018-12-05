@@ -15,3 +15,4 @@ links into different sections (eg. papers vs blog posts).
 - https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
 - https://news.ycombinator.com/item?id=18592489
 - https://news.ycombinator.com/item?id=18592489
+- [C.S. Lewis on the Reading of Old Books | Hacker News](https://news.ycombinator.com/item?id=18592489)
