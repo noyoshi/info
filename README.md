@@ -19,3 +19,4 @@ links into different sections (eg. papers vs blog posts).
 - [Why “Agile” and especially Scrum are terrible – Michael O. Church](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
 - [Ask HN: What's the largest amount of bad code you have ever seen work? | Hacker News](https://news.ycombinator.com/item?id=18442637)
 - [I created a bot that talks to recruiters for me (and it's sooo good!) - DEV Community 👩‍💻👨‍💻](https://dev.to/whokilledkevin/how-i-created-a-bot-that-talked-to-recruiters-for-me-54n5)
+- [Why are tech companies making custom typefaces?](https://www.arun.is/blog/custom-typefaces/)
