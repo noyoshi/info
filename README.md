@@ -21,3 +21,4 @@ links into different sections (eg. papers vs blog posts).
 - [I created a bot that talks to recruiters for me (and it's sooo good!) - DEV Community 👩‍💻👨‍💻](https://dev.to/whokilledkevin/how-i-created-a-bot-that-talked-to-recruiters-for-me-54n5)
 - [Why are tech companies making custom typefaces?](https://www.arun.is/blog/custom-typefaces/)
 - [](https://medium.com/commitlog/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068)
+- [](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
