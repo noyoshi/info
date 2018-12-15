@@ -18,3 +18,4 @@ links into different sections (eg. papers vs blog posts).
 - [attention](attention)
 - [https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 - [Show HN: AlphaZero Science paper | Hacker News](https://news.ycombinator.com/item?id=18620978)
+- [Incrementally improving the performance of a python script](http://mycode.doesnot.run/2018/04/11/pivot/)
