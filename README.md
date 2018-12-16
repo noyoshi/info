@@ -19,3 +19,4 @@ links into different sections (eg. papers vs blog posts).
 - [https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 - [Show HN: AlphaZero Science paper | Hacker News](https://news.ycombinator.com/item?id=18620978)
 - [Incrementally improving the performance of a python script](http://mycode.doesnot.run/2018/04/11/pivot/)
+- [Chick-Fil-A: Milking the Most out of 1000's of K8s Clusters - YouTube](https://www.youtube.com/watch?v=8edDcy3oeUo)
