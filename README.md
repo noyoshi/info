@@ -20,3 +20,4 @@ links into different sections (eg. papers vs blog posts).
 - [Show HN: AlphaZero Science paper | Hacker News](https://news.ycombinator.com/item?id=18620978)
 - [Incrementally improving the performance of a python script](http://mycode.doesnot.run/2018/04/11/pivot/)
 - [Chick-Fil-A: Milking the Most out of 1000's of K8s Clusters - YouTube](https://www.youtube.com/watch?v=8edDcy3oeUo)
+- [Twicsy's Blog, How I targeted the Reddit CEO with Facebook ads to...](http://twicsy-blog.tumblr.com/post/174063770074/how-i-targeted-the-reddit-ceo-with-facebook-ads-to)
