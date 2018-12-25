@@ -23,3 +23,4 @@ links into different sections (eg. papers vs blog posts).
 - [Twicsy's Blog, How I targeted the Reddit CEO with Facebook ads to...](http://twicsy-blog.tumblr.com/post/174063770074/how-i-targeted-the-reddit-ceo-with-facebook-ads-to)
 - [Why does PUNCHING Sonic 3D trigger a Secret Level Select? - YouTube](https://www.youtube.com/watch?v=i9bkKw32dGw)
 - [How to Receive Beautiful Images of the Earth Directly From Space | GOES-15,16,17 and Himawari 8 HRIT - YouTube](https://www.youtube.com/watch?v=jGWFg7EDnyY)
+- [8 super heroic Linux commands that you probably aren't using - YouTube](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
