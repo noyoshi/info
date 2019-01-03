@@ -24,3 +24,4 @@ links into different sections (eg. papers vs blog posts).
 - [Why does PUNCHING Sonic 3D trigger a Secret Level Select? - YouTube](https://www.youtube.com/watch?v=i9bkKw32dGw)
 - [How to Receive Beautiful Images of the Earth Directly From Space | GOES-15,16,17 and Himawari 8 HRIT - YouTube](https://www.youtube.com/watch?v=jGWFg7EDnyY)
 - [8 super heroic Linux commands that you probably aren't using - YouTube](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
+- [Over-the-top optimisations with Nim · Chameth.com](https://chameth.com/2018/12/09/over-the-top-optimisations-in-nim/)
