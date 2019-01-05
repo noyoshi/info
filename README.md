@@ -27,3 +27,4 @@ links into different sections (eg. papers vs blog posts).
 - [Over-the-top optimisations with Nim · Chameth.com](https://chameth.com/2018/12/09/over-the-top-optimisations-in-nim/)
 - [   How to Trigger an Alert Dialog Pop-Up from Command Line in Mac OS   ](http://osxdaily.com/2016/09/06/trigger-alert-dialog-mac-via-command-line/)
 - [GitHub - julienXX/terminal-notifier: Send User Notifications on macOS from the command-line.](https://github.com/julienXX/terminal-notifier)
+- [Automating Everything in Linux with ENTR! - YouTube](https://www.youtube.com/watch?v=9KAp_zWeI34)
