@@ -25,3 +25,4 @@ links into different sections (eg. papers vs blog posts).
 - [How to Receive Beautiful Images of the Earth Directly From Space | GOES-15,16,17 and Himawari 8 HRIT - YouTube](https://www.youtube.com/watch?v=jGWFg7EDnyY)
 - [8 super heroic Linux commands that you probably aren't using - YouTube](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
 - [Over-the-top optimisations with Nim · Chameth.com](https://chameth.com/2018/12/09/over-the-top-optimisations-in-nim/)
+- [   How to Trigger an Alert Dialog Pop-Up from Command Line in Mac OS   ](http://osxdaily.com/2016/09/06/trigger-alert-dialog-mac-via-command-line/)
