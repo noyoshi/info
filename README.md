@@ -28,3 +28,4 @@ links into different sections (eg. papers vs blog posts).
 - [   How to Trigger an Alert Dialog Pop-Up from Command Line in Mac OS   ](http://osxdaily.com/2016/09/06/trigger-alert-dialog-mac-via-command-line/)
 - [GitHub - julienXX/terminal-notifier: Send User Notifications on macOS from the command-line.](https://github.com/julienXX/terminal-notifier)
 - [Automating Everything in Linux with ENTR! - YouTube](https://www.youtube.com/watch?v=9KAp_zWeI34)
+- [SQLite FTS3 and FTS4 Extensions](https://sqlite.org/fts3.html)
