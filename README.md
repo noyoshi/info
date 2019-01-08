@@ -29,3 +29,4 @@ links into different sections (eg. papers vs blog posts).
 - [GitHub - julienXX/terminal-notifier: Send User Notifications on macOS from the command-line.](https://github.com/julienXX/terminal-notifier)
 - [Automating Everything in Linux with ENTR! - YouTube](https://www.youtube.com/watch?v=9KAp_zWeI34)
 - [SQLite FTS3 and FTS4 Extensions](https://sqlite.org/fts3.html)
+- [https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66)
