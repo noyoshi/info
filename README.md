@@ -33,3 +33,4 @@ links into different sections (eg. papers vs blog posts).
 - [http://overthewire.org](http://overthewire.org)
 - [](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
 - [](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
+- [https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
