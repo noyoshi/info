@@ -6,12 +6,13 @@ if [ -z "$1" ]; then
 fi
 
 push_to_git() {
-  TITLE=$(./get_title.py $1)
+  TITLE=$(get_title.py $1)
   echo "- [$TITLE]($1)" >> "$NICE_PATH/README.md"
   cd $NICE_PATH
-  git add README.md &> /dev/null 
-  git commit -m "new link - $1" &> /dev/null 
-  git push &> /dev/null & 
+  git add README.md #&> /dev/null 
+  git commit -m "new link - $1" # &> /dev/null 
+  git pull
+  git push #&> /dev/null & 
 }
 
 push_to_git $1
