@@ -6,6 +6,12 @@ related things.
 Will eventually make it a Pythons script that can use flags to seperate out the
 links into different sections (eg. papers vs blog posts).
 
+### TODO
+- [ ] Let it work from multiple machines (fix the merge conflicts and upstream
+  change errors)
+- [ ] Make categories so you can save links in different directories / sections
+  for different things (food, programming, etc)
+
 ### Links!
 - https://medium.com/commitlog/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068
 - https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
