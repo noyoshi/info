@@ -34,3 +34,4 @@ links into different sections (eg. papers vs blog posts).
 - [GitHub - GitSquared/edex-ui: A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.](https://github.com/GitSquared/edex-ui)
 - [GitHub - GitSquared/edex-ui: A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.](https://github.com/GitSquared/edex-ui)
 - [GitHub - GitSquared/edex-ui: A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.](https://github.com/GitSquared/edex-ui)
+- [GitHub - GitSquared/edex-ui: A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.](https://github.com/GitSquared/edex-ui)
