@@ -40,4 +40,9 @@ links into different sections (eg. papers vs blog posts).
 - [GitHub - GitSquared/edex-ui: A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.](https://github.com/GitSquared/edex-ui)
 - [https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
 - [http://app.programmingfonts.org/](http://app.programmingfonts.org/)
+<<<<<<< HEAD
 - [Vim Colors](https://vimcolors.org/)
+=======
+- [https://github.com/dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode)
+>>>>>>> b85295ef4008d3118b129f73463b804cdc8200fb
+- [GitHub - nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck)
