@@ -43,3 +43,4 @@ links into different sections (eg. papers vs blog posts).
 - [Vim Colors](https://vimcolors.org/)
 - [https://github.com/dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode)
 - [GitHub - nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck)
+- [https://dank.sh/](https://dank.sh/)
