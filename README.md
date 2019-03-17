@@ -46,3 +46,4 @@ links into different sections (eg. papers vs blog posts).
 - [https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 - [https://dank.sh/](https://dank.sh/)
 - [GitHub - felixhageloh/uebersicht: ˈyːbɐˌzɪçt](https://github.com/felixhageloh/uebersicht)
+- [https://medium.com/sector443/python-for-reverse-engineering-1-elf-binaries-e31e92c33732](https://medium.com/sector443/python-for-reverse-engineering-1-elf-binaries-e31e92c33732)
