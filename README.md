@@ -47,3 +47,4 @@ links into different sections (eg. papers vs blog posts).
 - [https://dank.sh/](https://dank.sh/)
 - [GitHub - felixhageloh/uebersicht: ˈyːbɐˌzɪçt](https://github.com/felixhageloh/uebersicht)
 - [https://medium.com/sector443/python-for-reverse-engineering-1-elf-binaries-e31e92c33732](https://medium.com/sector443/python-for-reverse-engineering-1-elf-binaries-e31e92c33732)
+- [GitHub - emscripten-core/emscripten: Emscripten: An LLVM-to-Web Compiler](https://github.com/emscripten-core/emscripten)
