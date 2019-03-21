@@ -53,3 +53,4 @@ links into different sections (eg. papers vs blog posts).
     
 
     Bakemonogatari Background Art Hitagi Crab & Mayoi Snail - Album on Imgur](https://imgur.com/a/fogBI)
+- [Easy way to connect AirPods from Terminal : apple](https://www.reddit.com/r/apple/comments/b3pytx/easy_way_to_connect_airpods_from_terminal/)
